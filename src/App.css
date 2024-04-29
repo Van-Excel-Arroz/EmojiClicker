@@ -1,0 +1,21 @@
+.emoji-container {
+	width: 80%;
+	margin: 100px auto 0;
+}
+
+.emoji-btn {
+	border: none;
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	margin: 0 20px;
+	font-size: 1.4rem;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+
+.emoji {
+	font-size: 4rem;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
